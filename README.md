@@ -1,18 +1,18 @@
-🎬 Silent Pressure
+# 🎬 Silent Pressure
 
 A cinematic AI-generated short film exploring the invisible pressures of routine, conformity, and self-awareness through visual storytelling.
 
-⸻
+---
 
-📖 Overview
+## 📖 Overview
 
 Silent Pressure is a hyper-realistic AI-generated cinematic video created as part of an AI workshop project.
 
 The film tells a story without dialogue or narration, relying entirely on visuals, atmosphere, pacing, and continuity to communicate emotion. Through a series of carefully crafted scenes, the project explores how modern routines and social expectations silently shape human behavior.
 
-⸻
+---
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 The goal of this project was to demonstrate how Generative AI can be used as a creative filmmaking tool.
 
@@ -24,18 +24,18 @@ Instead of traditional video production methods, the entire workflow was built a
 * Visual Storytelling
 * Cinematic Direction
 
-⸻
+---
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 Tool	Purpose
 Google Gemini	Image Generation
 Google Flow	Video Generation & Scene Animation
 GitHub	Documentation & Project Hosting
 
-⸻
+---
 
-🎞️ Story Structure
+## 🎞️ Story Structure
 
 1. Observation / Routine
 
@@ -43,7 +43,7 @@ A lone individual sits inside an apartment during the early morning. The outside
 
 Theme: Passive engagement.
 
-⸻
+---
 
 2. Pattern / Pressure
 
@@ -51,7 +51,7 @@ The subject enters a crowded urban environment. People move in similar direction
 
 Theme: Growing pressure.
 
-⸻
+---
 
 3. Break / Release
 
@@ -59,7 +59,7 @@ The environment becomes more intense and emotionally charged. The protagonist be
 
 Theme: Personal transformation.
 
-⸻
+---
 
 4. Aftermath / Awareness
 
@@ -67,9 +67,9 @@ As dawn approaches, the city becomes quieter. The subject walks forward on an op
 
 Theme: Reflection and possibility.
 
-⸻
+---
 
-🎨 Visual Design
+## 🎨 Visual Design
 
 The project follows a consistent cinematic language:
 
@@ -80,9 +80,9 @@ The project follows a consistent cinematic language:
 * Environmental storytelling
 * Seamless scene continuity
 
-⸻
+---
 
-🧠 Prompt Engineering Approach
+## 🧠 Prompt Engineering Approach
 
 A structured prompting workflow was used to maintain:
 
@@ -94,9 +94,9 @@ A structured prompting workflow was used to maintain:
 
 Each scene was generated using a start frame and an end frame before being animated into a video sequence.
 
-⸻
+---
 
-🔄 Production Workflow
+## 🔄 Production Workflow
 
 Story Concept
       ↓
@@ -112,26 +112,7 @@ Editing & Assembly
       ↓
 Final Short Film
 
-📂 Project Structure
-
-Silent-Pressure/
-│
-├── README.md
-├── prompts/
-│   └── silent-pressure-prompt.txt
-│
-├── assets/
-│   ├── frame-1.png
-│   ├── frame-2.png
-│   └── screenshots/
-│
-├── video/
-│   └── silent-pressure.mp4
-│
-└── documentation/
-    └── workflow.md
-
-💡 Key Learning Outcomes
+## 💡 Key Learning Outcomes
 
 Through this project I learned:
 
@@ -141,9 +122,9 @@ Through this project I learned:
 * Cinematic composition using AI tools
 * End-to-end AI video production workflows
 
-⸻
+---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 * Longer narrative structure
 * Advanced scene transitions
@@ -151,14 +132,14 @@ Through this project I learned:
 * Multi-character storytelling
 * Improved visual consistency across scenes
 
-⸻
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Sudheer
+## Charanpreet Singh
 
 AI Workshop Project • 2026
 
-⸻
+---
 
 “Silence can tell stories that words often cannot.”
