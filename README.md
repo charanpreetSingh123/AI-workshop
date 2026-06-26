@@ -1,145 +1,217 @@
 # 🎬 Silent Pressure
 
-A cinematic AI-generated short film exploring the invisible pressures of routine, conformity, and self-awareness through visual storytelling.
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-AI%20Short%20Film-red?style=for-the-badge" alt="Project">
+  <img src="https://img.shields.io/badge/AI-Google%20Gemini-blue?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Video-Google%20Flow-success?style=for-the-badge" alt="Flow">
+  <img src="https://img.shields.io/badge/Genre-Cinematic-black?style=for-the-badge" alt="Genre">
+</p>
+
+<p align="center">
+  <b>An AI-Generated Cinematic Short Film Exploring Routine, Conformity, and Self-Awareness Through Visual Storytelling</b>
+</p>
+
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-project-objective">Objective</a> •
+  <a href="#-tools-used">Tools</a> •
+  <a href="#-story-structure">Story</a> •
+  <a href="#-production-workflow">Workflow</a> •
+  <a href="#-learning-outcomes">Learnings</a> •
+  <a href="#-author">Author</a>
+</p>
 
 ---
 
 ## 📖 Overview
 
-Silent Pressure is a hyper-realistic AI-generated cinematic video created as part of an AI workshop project.
+**Silent Pressure** is a cinematic AI-generated short film created as part of an AI Workshop project.
 
-The film tells a story without dialogue or narration, relying entirely on visuals, atmosphere, pacing, and continuity to communicate emotion. Through a series of carefully crafted scenes, the project explores how modern routines and social expectations silently shape human behavior.
+Rather than relying on dialogue or narration, the film communicates entirely through visuals, atmosphere, pacing, and cinematic composition. The story explores the invisible pressures of routine, conformity, and the journey toward self-awareness.
+
+The project demonstrates how modern Generative AI tools can be used to create emotionally engaging visual narratives while maintaining cinematic continuity across scenes.
 
 ---
 
 ## 🎯 Project Objective
 
-The goal of this project was to demonstrate how Generative AI can be used as a creative filmmaking tool.
+The objective of this project was to explore AI-assisted filmmaking and demonstrate how Generative AI can be integrated into the creative production pipeline.
 
-Instead of traditional video production methods, the entire workflow was built around:
+Instead of traditional filmmaking techniques, the complete production process was driven by:
 
-* Prompt Engineering
-* AI Image Generation
-* AI Video Generation
-* Visual Storytelling
-* Cinematic Direction
+- Prompt Engineering
+- AI Image Generation
+- AI Video Generation
+- Cinematic Direction
+- Visual Storytelling
 
 ---
 
 ## 🛠️ Tools Used
 
-Tool	Purpose
-Google Gemini	Image Generation
-Google Flow	Video Generation & Scene Animation
-GitHub	Documentation & Project Hosting
+| Category | Tool |
+|----------|------|
+| Image Generation | Google Gemini |
+| Video Generation | Google Flow |
+| Documentation | GitHub |
+| Creative Process | Prompt Engineering |
 
 ---
 
 ## 🎞️ Story Structure
 
-1. Observation / Routine
+### 🌅 1. Observation • Routine
 
-A lone individual sits inside an apartment during the early morning. The outside world continues to move while the subject remains absorbed in a repetitive routine.
+A lone individual sits inside an apartment during the early morning while the outside world continues to move. The repetitive nature of daily life is introduced through stillness and subtle environmental storytelling.
 
-Theme: Passive engagement.
-
----
-
-2. Pattern / Pressure
-
-The subject enters a crowded urban environment. People move in similar directions, creating a visual representation of social conformity and repetitive behavior.
-
-Theme: Growing pressure.
+**Theme:** Passive Engagement
 
 ---
 
-3. Break / Release
+### 🚶 2. Pattern • Pressure
 
-The environment becomes more intense and emotionally charged. The protagonist begins to move forward, symbolizing a conscious decision to break away from routine.
+The protagonist enters a crowded urban environment where everyone moves in similar directions. The repetitive movement symbolizes conformity and the invisible pressure of societal expectations.
 
-Theme: Personal transformation.
+**Theme:** Growing Pressure
 
 ---
 
-4. Aftermath / Awareness
+### 🔥 3. Break • Release
 
-As dawn approaches, the city becomes quieter. The subject walks forward on an open road, suggesting clarity and self-awareness without providing a definitive ending.
+The surroundings become increasingly intense as the protagonist consciously chooses to move forward, representing a break from routine and conformity.
 
-Theme: Reflection and possibility.
+**Theme:** Personal Transformation
+
+---
+
+### 🌄 4. Aftermath • Awareness
+
+As dawn approaches, the city becomes quiet once again. The protagonist walks along an open road, suggesting clarity, reflection, and the possibility of change without revealing a definitive conclusion.
+
+**Theme:** Reflection & Possibility
 
 ---
 
 ## 🎨 Visual Design
 
-The project follows a consistent cinematic language:
+The film follows a consistent cinematic style throughout every scene.
 
-* Hyper-realistic visuals
-* Muted blue and gray color palette
-* Low-key lighting
-* Smooth camera movement
-* Environmental storytelling
-* Seamless scene continuity
+### 🎥 Cinematic Elements
+
+- Hyper-realistic visuals
+- Muted blue and gray color palette
+- Low-key lighting
+- Smooth cinematic camera movement
+- Environmental storytelling
+- Consistent character appearance
+- Seamless scene continuity
 
 ---
 
-## 🧠 Prompt Engineering Approach
+## 🧠 Prompt Engineering
 
-A structured prompting workflow was used to maintain:
+A structured prompting workflow was developed to maintain consistency throughout the film.
 
-* Character consistency
-* Scene continuity
-* Emotional progression
-* Realistic motion
-* Cinematic composition
+Key objectives included:
 
-Each scene was generated using a start frame and an end frame before being animated into a video sequence.
+- Character consistency
+- Scene continuity
+- Emotional progression
+- Realistic motion
+- Cinematic framing
+- Visual coherence
+
+Each sequence was first generated as a **Start Frame** and an **End Frame**, which were then animated into complete cinematic scenes using AI video generation.
 
 ---
 
 ## 🔄 Production Workflow
 
+```text
 Story Concept
-      ↓
+      │
+      ▼
 Scene Planning
-      ↓
-Frame Generation (Gemini)
-      ↓
+      │
+      ▼
+Prompt Engineering
+      │
+      ▼
+Image Generation (Google Gemini)
+      │
+      ▼
 Start & End Keyframes
-      ↓
-Video Generation (Flow)
-      ↓
-Editing & Assembly
-      ↓
-Final Short Film
+      │
+      ▼
+Video Generation (Google Flow)
+      │
+      ▼
+Editing & Scene Assembly
+      │
+      ▼
+Final AI Short Film
+```
 
-## 💡 Key Learning Outcomes
+---
 
-Through this project I learned:
+## 💡 Learning Outcomes
 
-* Effective prompt engineering techniques
-* AI-assisted visual storytelling
-* Scene continuity design
-* Cinematic composition using AI tools
-* End-to-end AI video production workflows
+This project demonstrates:
+
+- Prompt Engineering
+- AI-Assisted Filmmaking
+- Visual Storytelling
+- Cinematic Composition
+- Scene Continuity Design
+- AI Video Production Workflow
+- Creative Direction using Generative AI
 
 ---
 
 ## 🚀 Future Improvements
 
-* Longer narrative structure
-* Advanced scene transitions
-* Custom soundtrack integration
-* Multi-character storytelling
-* Improved visual consistency across scenes
+### 🎥 Production
+
+- Longer narrative structure
+- Multi-scene storytelling
+- Advanced cinematic transitions
+- Higher visual consistency
+
+### 🎼 Audio
+
+- Original soundtrack
+- Environmental sound design
+- Ambient audio enhancement
+
+### 🤖 AI Enhancements
+
+- Multi-character interactions
+- Improved facial consistency
+- Enhanced motion realism
+- Advanced prompt chaining
+
+---
+
+## 🌟 Project Vision
+
+The long-term vision for **Silent Pressure** is to explore the future of AI-assisted filmmaking by combining cinematic storytelling, prompt engineering, and generative media into emotionally engaging visual experiences.
+
+The project serves as an example of how artificial intelligence can augment creativity while preserving artistic intent and narrative depth.
 
 ---
 
 ## 👨‍💻 Author
 
-## Charanpreet Singh
+### Charanpreet Singh
 
-AI Workshop Project • 2026
+Developed as part of an AI Workshop project exploring cinematic storytelling through Generative AI, prompt engineering, and AI-powered video production.
 
 ---
 
-“Silence can tell stories that words often cannot.”
+> *"Silence can tell stories that words often cannot."*
+
+---
+
+<p align="center">
+  ⭐ If you enjoyed this project, consider giving it a star!
+</p>
