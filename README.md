@@ -213,5 +213,5 @@ Developed as part of an AI Workshop project exploring cinematic storytelling thr
 ---
 
 <p align="center">
-  ⭐ If you enjoyed this project, consider giving it a star!
+  ⭐ If you enjoyed this project, consider giving it a star :)
 </p>
